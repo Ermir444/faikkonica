@@ -13,7 +13,6 @@
     "cors": "^2.8.5",
     "express": "^4.21.2"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Ermir444/faikkonica.git"
